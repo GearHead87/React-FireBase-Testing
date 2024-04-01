@@ -45,6 +45,7 @@ const Login = () => {
                         </div>
                         <div className="form-control mt-6">
                             <button className="btn btn-primary">Login</button>
+                            <a className="btn btn-primary mt-4">Google</a>
                         </div>
                     </form>
                 </div>
